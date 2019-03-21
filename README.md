@@ -3,9 +3,7 @@
 # CypressTests
 
 ### Install Cypress visit
-```sh
-$ https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
-```
+https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
 
 > Clone this repositery on your local.
 > Copy folder CypressTests/cypress/integration/Tests/ into CypressTests/cypress/integration/
@@ -24,7 +22,7 @@ $(npm bin)/cypress run --browser chrome --spec "cypress/integration/Tests/**/*"
 # In headless it will record video for each test 
 ```
 
-#### Run folder from command line headless
+#### Run folder from command line headed
 ```sh
 $(npm bin)/cypress run --browser chrome --headed --spec "cypress/integration/Tests/**/*"
 # This will run test on chrome
