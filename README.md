@@ -5,7 +5,8 @@
 ### Install Cypress visit
 https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
 
-> Clone this repositery on your local.
+### Clone this repositery on your local.
+>
 > Copy folder CypressTests/cypress/integration/Tests/ into CypressTests/cypress/integration/
 > 
 
