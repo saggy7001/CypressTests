@@ -33,6 +33,6 @@ $(npm bin)/cypress run --browser chrome --headed --spec "cypress/integration/Tes
 Feel free to raise PR in case of code modification
 
 `Note:`
- You can find my [blog](http://sagargaikwadblog.blogspot.com/2019/03/cypress-web-has-evolved-finally-testing.html) 
- 
+
+ You can find my [blog](http://sagargaikwadblog.blogspot.com/2019/03/cypress-web-has-evolved-finally-testing.html)  
  These are basic UI opeartions carried on https://saggy7001.github.io/
